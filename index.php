@@ -404,7 +404,7 @@ footer .sep { margin: 0 .4rem; opacity: .4; }
   <!-- Top bar -->
   <nav class="topbar">
     <div class="topbar-logo">
-      <div class="dot"></div>
+      <div class="dot">TP2</div>
       DevOps Platform
     </div>
     <div class="topbar-meta">Mise à jour : <?= $now ?></div>
